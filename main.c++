@@ -1,4 +1,4 @@
-#include"Sting_.h"
+#include"sting_.h"
 int main(){
         String s1="ajay",s2;
         cin>>s2;
