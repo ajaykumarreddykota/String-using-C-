@@ -1,4 +1,4 @@
-#include"String_.h"
+#include"string_.h"
 istream& getline(istream& in,String &a){
 	cin.getline(a.s,1000);
 	return in;
